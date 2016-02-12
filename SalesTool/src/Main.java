@@ -1,7 +1,9 @@
 
 /* change 1
+<<<<<<< HEAD
  * change 2  
- * change 3
+ * SUDHIR changes 
+ *
  * 
  * 
  * 
@@ -36,5 +38,14 @@ public class Main {
 }	
 
 
-// commented by java Developer
-// updated by java developer 2
+
+/* commented by java Developer 1
+ * commented by java Developer 2
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
