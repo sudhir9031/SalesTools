@@ -1,4 +1,3 @@
-/* hello*/
 
 public class Main {
 	
