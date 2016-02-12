@@ -1,16 +1,3 @@
-
-/* change 1
-<<<<<<< HEAD
- * change 2  
- * SUDHIR changes 
- *
- * 
- * 
- * 
- * 
- * 
- */
-
 public class Main {
 	
 	public static void main(String arg[])
@@ -36,16 +23,4 @@ public class Main {
 	}
 
 }	
-
-
-
-/* commented by java Developer 1
- * commented by java Developer 2
- * commented by java developer 3
- * 
- * 
- * 
- * 
- * 
- */
 
