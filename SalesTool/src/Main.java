@@ -20,6 +20,7 @@ public class Main {
 		
 	 	System.out.println("Test 2");
 		System.out.println("12 february updated");
+		System.out.println("12 february 2 updated");
 	
   }
 
