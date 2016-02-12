@@ -33,8 +33,3 @@ public class Main {
 }	
 
 
-/* commented by java Developer 1
- * commented by java Developer 2
- * 
-
- */
