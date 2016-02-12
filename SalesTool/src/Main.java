@@ -2,8 +2,8 @@
 public class Main {
 	
 	public static void main(String arg[])
-	{
-		
+	{int a=20;
+		System.out.println("a="+a);
 		SalesData data = new SalesData();
 		displayGreeting();
 		data.display();
